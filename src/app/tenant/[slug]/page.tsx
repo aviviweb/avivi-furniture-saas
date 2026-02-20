@@ -1,3 +1,5 @@
+"use client"
+
 import ProductDashboard from "@/components/dashboard/ProductDashboard";
 import LogisticsDashboard from "@/components/dashboard/LogisticsDashboard";
 import CustomerServiceDashboard from "@/components/dashboard/CustomerServiceDashboard";
